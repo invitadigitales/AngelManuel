@@ -484,7 +484,7 @@ body {
     font-weight: bold;
     color: #ffffff;
     border: 3px solid #ffffff;
-    background: black;
+    background: #00005b;
 }
 
 .day-cell {
@@ -497,7 +497,7 @@ body {
     justify-content: center;
     color: #ffffff;
     border: 3px solid #ffffff;
-    background: black;
+    background: #00005b;
 }
 
 /* Responsivo para tablets */
